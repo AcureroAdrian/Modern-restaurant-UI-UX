@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Modern-restaurant-UI/UX
 ### [Live Site](https://oxydev.fr/gericht-restaurant/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
