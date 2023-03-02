@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](https://oxydev.fr/gericht-restaurant/)
+### [Live Site](https://modern-restaurant-ui-ux.vercel.app)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
